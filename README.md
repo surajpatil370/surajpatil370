@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @surajpatil370
 - 👀 I’m interested in building real world products
-- 🌱 I’m currently full stack development
+- 🌱 I’m currently Learning full stack development
 - 📫 How to reach me suraj.patil@appyhigh.com
 
 <!---
